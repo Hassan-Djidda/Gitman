@@ -2,7 +2,7 @@
 
 ## Description
 
-A learning-based git project that teach us how to use   **git commands** to manage our projects in this project  we learned how to use:
+A learning-based project that teach us how to use   **git commands** to manage our projects in this project  we learned how to use:
 
 * [git config](https://git-scm.com/docs/git-config)  
 * [git init](https://git-scm.com/docs/git-init)
