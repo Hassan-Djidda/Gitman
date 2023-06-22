@@ -18,3 +18,4 @@ A learning-based project that teach us how to use   **git commands** to manage o
 ## Requirement
 - Git
 - Python3
+- Bash
