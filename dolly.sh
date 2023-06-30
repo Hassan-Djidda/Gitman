@@ -18,3 +18,6 @@ git commit -m "New function multiplication"
 git checkout main
 git merge dev-mul
 git branch -d dev-mul
+
+git diff HEAD~
+git push
