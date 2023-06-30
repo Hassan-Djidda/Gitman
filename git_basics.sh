@@ -15,10 +15,23 @@ git commit -m "Initial commit" # Commit or record the changes
 git push -u origin main # Push the content to remote branch
 git remote --verbose # List remote branches
 
-git clone git clone file:///tmp/dolly # To clone 
 
 # Bash commands
 echo "print('Hello world')" > main.py # Create a python file
 echo "PASSWORD=Ax?bu75+33" > .env # Create a .env file 
 echo ".env" > .gitignore # Add an .env file to .gitignore
 
+
+
+git clone git clone file:///tmp/dolly # To clone 
+git checkout -b dev-mul
+git branch
+
+cd dolly
+ls 
+cat main.py
+
+echo "def mul(num1, num2):" >> main.py
+echo "    return num1 * num2" >> main.py
+cat main.py
+git status
