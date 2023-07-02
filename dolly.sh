@@ -14,9 +14,9 @@ git status # To know the changes
 git add main.py # To add the changes on the staging area
 git commit -m "New function multiplication" # To save the changes 
 
-git checkout main 
-git merge dev-mul
-git branch -d dev-mul
-
-git diff HEAD~
-git push
+git checkout main # Switch to main
+git merge dev-mul # Merge the dev-mul to main
+git branch -d dev-mul # Delete the dev-mul branch
+ 
+git diff HEAD~ # To compare or to see difference 
+git push # To send the changes to remote branch
