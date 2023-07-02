@@ -1,6 +1,5 @@
-
-git clone git clone file:///tmp/dolly # To clone 
-git checkout -b dev-mul
+git clone git clone file:///tmp/dolly # To clone a project 
+git checkout -b dev-mul # Create a branch and Switched on
 git branch
 
 cd dolly
