@@ -1,4 +1,4 @@
-# Gitman
+# Gitman Project
 
 ## Description
 
